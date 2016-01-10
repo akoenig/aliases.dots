@@ -12,3 +12,7 @@ alias ip="curl ip.appspot.com"
 
 # Shorter vim
 alias v="vim"
+
+# better ll
+alias ll="ls -lah"
+
