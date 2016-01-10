@@ -1,0 +1,14 @@
+# Jump to project directory
+alias p="cd $HOME/projects"
+
+# Shorter "git" :)
+alias g="git"
+alias gpom="git push origin master"
+alias gpod="git push origin develop"
+alias gclog="git log --oneline --decorate"
+
+# Whats my ip address, mate?
+alias ip="curl ip.appspot.com"
+
+# Shorter vim
+alias v="vim"
