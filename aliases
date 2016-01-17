@@ -5,6 +5,8 @@ alias p="cd $HOME/projects"
 alias g="git"
 alias gpom="git push origin master"
 alias gpod="git push origin develop"
+alias gp="git push"
+alias gpoc="gp origin $(git rev-parse --abbrev-ref HEAD)"
 alias gclog="git log --oneline --decorate"
 
 # Whats my ip address, mate?
