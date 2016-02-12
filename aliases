@@ -9,6 +9,7 @@ alias gp="git push"
 alias gpoc="git rev-parse --abbrev-ref HEAD | xargs git push origin"
 alias gclog="git log --oneline --decorate"
 alias gup="git rev-parse --abbrev-ref HEAD | xargs git pull origin"
+alias t="tig"
 
 # Whats my ip address, mate?
 alias ip="curl ip.appspot.com"
@@ -29,4 +30,3 @@ alias nit='npm install && npm test'
 alias nk='npm link'
 alias nr='npm run'
 alias nf='npm cache clean && rm -rf node_modules && npm install'
-
