@@ -9,6 +9,7 @@ alias gp="git push"
 alias gpoc="git rev-parse --abbrev-ref HEAD | xargs git push origin"
 alias gclog="git log --oneline --decorate"
 alias gup="git rev-parse --abbrev-ref HEAD | xargs git pull origin"
+alias gcm="git checkout master"
 alias t="tig"
 
 # Whats my ip address, mate?
