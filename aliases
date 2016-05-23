@@ -15,8 +15,9 @@ alias t="tig"
 # Whats my ip address, mate?
 alias ip="curl ip.appspot.com"
 
-# Shorter vim
+# Shorter vim/neovim
 alias v="vim"
+alias n="nvim"
 
 # better ll
 alias ll="ls -lah"
