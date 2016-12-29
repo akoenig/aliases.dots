@@ -37,5 +37,5 @@ alias nf='npm cache clean && rm -rf node_modules && npm install'
 alias dm='docker-machine'
 
 # prm
-alias pm=$HOME/apps/prm
+alias pm=". $HOME/apps/prm"
 
