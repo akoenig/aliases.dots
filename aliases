@@ -39,3 +39,6 @@ alias dm='docker-machine'
 # prm
 alias pm=". $HOME/apps/prm/prm.sh"
 
+# Kubernetes
+alias k="kubectl"
+
